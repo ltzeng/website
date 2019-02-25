@@ -1,0 +1,1 @@
+Starter Spring MVC website for skeleton base
